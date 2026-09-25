@@ -18,3 +18,7 @@ Sub Bab Conditional Expressions
 Sub Bab Function & Lambda
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/92a336f2-b00b-4941-85c5-31828274cc6e" />
 
+Sub Bab Class  & Class Data
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/68deed75-0944-4c48-aa0f-691e61805ade" />
+
+
