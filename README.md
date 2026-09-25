@@ -1,5 +1,11 @@
 Sub bab Variable dan Tipe Data Dasar
-<img width="1917" height="1196" alt="image" src="https://github.com/user-attachments/assets/1391e30c-e25c-4853-b95c-1c2826db5aca" />
+<img width="1891" height="1198" alt="image" src="https://github.com/user-attachments/assets/7c4c5edd-dba7-4137-b991-7d1f12e71aa6" />
+
 
 Sub bab List
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/44052efb-3a0e-4cc0-af29-d5e988debc29" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/e0dca0d6-9a3f-4fd6-88ee-9d3ff1bb0b0d" />
+
+
+Sub Bab Set
+<img width="1916" height="1198" alt="image" src="https://github.com/user-attachments/assets/22a52db4-539c-4e39-b59f-c7291e1525f3" />
+
