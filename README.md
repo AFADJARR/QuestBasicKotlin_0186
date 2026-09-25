@@ -15,3 +15,6 @@ Sub Bab Map
 Sub Bab Conditional Expressions
 <img width="1915" height="1198" alt="image" src="https://github.com/user-attachments/assets/6f69fc22-7ba4-4f0c-8e2a-4d343f2337d4" />
 
+Sub Bab Function & Lambda
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/92a336f2-b00b-4941-85c5-31828274cc6e" />
+
