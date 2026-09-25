@@ -12,4 +12,6 @@ Sub Bab Set
 Sub Bab Map
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/fbb96013-2f3a-4956-834f-7b0915df5944" />
 
+Sub Bab Conditional Expressions
+<img width="1915" height="1198" alt="image" src="https://github.com/user-attachments/assets/6f69fc22-7ba4-4f0c-8e2a-4d343f2337d4" />
 
